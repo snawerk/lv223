@@ -1,19 +1,22 @@
 {
-  "users": [
+  "employees": [
     {
       "id": 1,
-      "userId": 101,
-      "name": "Elver"
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
     },
     {
       "id": 2,
-      "userId": 102,
-      "name": "Gaddurah"
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
     },
     {
       "id": 3,
-      "userId": 103,
-      "name": "Massizza"
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
     }
   ]
 }
