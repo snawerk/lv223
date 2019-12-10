@@ -1,12 +1,12 @@
 {
   "clientes": [
-    { "id": 1, "titleA": "Post 1" },
-    { "id": 2, "titleB": "Post 2" },
-    { "id": 3, "titleC": "Post 3" }
+    { "id": 1, "Eduardo Herrera": "Madrid" },
+    { "id": 2, "Marko Paleka": "Rijeka" },
+    { "id": 3, "Denisse Duarte": "CDMX" }
   ],
   "prospectos": [
-    { "id": 1, "body": "some commentA", "postId": 1 },
-    { "id": 2, "body": "some commentB", "postId": 1 }
+    { "id": 1, "body": "Maja Blazek", "postId": 1 },
+    { "id": 2, "body": "Dmitry Amosov", "postId": 2 }
   ],
   "perfiles": {
     "name": "Luis Cruz"
